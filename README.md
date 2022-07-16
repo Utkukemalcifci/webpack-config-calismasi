@@ -1,5 +1,5 @@
 # Proje Amacı
-www.utkukemalcifci.com sitesinin webpack konfigürasyonu yazısının kaynak kodlarıdır.
+https://utkukemalcifci.com/webpack-konfigurasyonu/ sitesinin webpack konfigürasyonu yazısının kaynak kodlarıdır.
 Türkçe kaynak olması amacıyla yazılmıştır.
 
 # Projeyi Çalıştırması
